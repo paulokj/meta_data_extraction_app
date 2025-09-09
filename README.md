@@ -2,7 +2,7 @@
 
 A Streamlit application that extracts and displays metadata from **Image**, **Audio**, and **PDF** files.  
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://metadataextractionapp-5k7lr7a4oaxznytmqyyjba.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://metadataextractionapp-jnkx6fmmcezu9dmvadcgd3.streamlit.app/)
 
 ---
 
